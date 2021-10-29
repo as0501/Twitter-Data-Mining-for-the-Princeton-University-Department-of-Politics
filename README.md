@@ -1,1 +1,1 @@
-# TwitteR-Analysis---Research-Assitant-for-Princeton-University-Department-of-Politics
+# TwitteR-Analysis---Research-Assistant-for-Princeton-University-Department-of-Politics
