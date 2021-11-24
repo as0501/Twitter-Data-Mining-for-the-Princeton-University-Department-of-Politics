@@ -6,14 +6,14 @@ library("rtweet")
 appname <- "Legislator Analysis"
 
 # consumer key 
-key <- "bPTiA9b6DJp4B5RTFcHfqti5p"
+key <- #####
 
 # consumer secret 
-secret <- "j5RXLQLuK9vTHB7tpePdLBYK3rRH64oWZziGhmxyJyerZKnKNC"
+secret <- ####
 
 #access token and secret
-accesstoken <- "590362554-Nj607bFXSbeAISFUA9HNAcr2S3huWfQ9WCDi6HnF"
-accesssecret <-"bjYgbP7x40UhuedvTJSo1mr0CbeaEMvnG6Udc7lIyYDVi"
+accesstoken <- ####
+accesssecret <-####
 
 #setup
 twitter_token <- create_token(
